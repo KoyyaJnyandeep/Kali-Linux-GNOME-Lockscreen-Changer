@@ -15,7 +15,7 @@ It also creates a backup of your original lockscreen file so you can restore it 
 
 ✔️ Automatic backup & restore support
 
-✔️ Supports JPG, PNG, JPEG
+✔️ Supports JPG, JPEG
 
 ✔️ Validates user input
 
@@ -23,11 +23,7 @@ It also creates a backup of your original lockscreen file so you can restore it 
 
 ✔️ Works on Kali Linux GNOME Desktop
 
-📂 Project Structure
-kali-gnome-lockscreen-changer/
-│── lckscrnchngr.sh       # Main script
-│── README.md             # Documentation
-└── assets/               # (optional) Example wallpapers / screenshots
+
 
 🔧 Installation
 
